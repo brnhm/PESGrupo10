@@ -11,4 +11,4 @@ Repositório para os trabalhos da discipina de **Práticas de Engenharia de Soft
 - [Bruno Haupenthal Martins](https://github.com/brnhm) - 201918835
 - [Ezequiel Santos Bitencourt](https://github.com/EzequielBitencourt) - 201626907
 - [Leonardo Flores Bernardo](https://github.com/leobernardo1) - 201513853
-- Thales da Silva Caruso Madera - 201713873
+- [Thales da Silva Caruso Madera](https://github.com/ThalesCaruso) - 201713873
